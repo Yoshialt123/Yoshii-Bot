@@ -1,0 +1,58 @@
+{
+  "users": {
+    "100078635989165": {
+      "strikes": 0,
+      "warned": false,
+      "bannedUntil": 0,
+      "globalBan": false,
+      "name": "@Haise Sasaki",
+      "lastMessages": [],
+      "lastSeen": 0
+    },
+    "100091885846613": {
+      "strikes": 0,
+      "warned": false,
+      "bannedUntil": 0,
+      "globalBan": false,
+      "name": "@Bob Minion",
+      "lastMessages": [],
+      "lastSeen": 0
+    },
+    "100077690304424": {
+      "strikes": 0,
+      "warned": false,
+      "bannedUntil": 0,
+      "globalBan": false,
+      "name": "@Kanekishiro Ken"
+    },
+    "help": {
+      "strikes": 0,
+      "warned": false,
+      "bannedUntil": 0,
+      "globalBan": false,
+      "name": null,
+      "lastMessages": [],
+      "lastSeen": 0
+    }
+  },
+  "threads": {
+    "2056029805320536": {
+      "banned": [],
+      "locked": false
+    },
+    "9512268618784393": {
+      "banned": [
+        "100077690304424"
+      ],
+      "locked": false
+    },
+    "1625605522027471": {
+      "banned": [],
+      "locked": false
+    },
+    "9979029578814294": {
+      "banned": [],
+      "locked": false
+    }
+  }
+}

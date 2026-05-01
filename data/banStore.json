@@ -1,0 +1,21 @@
+{
+  "100078635989165": {
+    "strikes": 1,
+    "count": 0,
+    "lastMessages": [],
+    "bannedUntil": 1777036912139,
+    "warned": true
+  },
+  "100068164453019": {
+    "strikes": 0,
+    "count": 0,
+    "lastMessages": [
+      {
+        "text": "ganto kasaya mag militaryHAHAHA",
+        "time": 1776951027340
+      }
+    ],
+    "bannedUntil": 0,
+    "warned": false
+  }
+}

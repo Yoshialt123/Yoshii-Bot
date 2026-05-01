@@ -1,0 +1,35 @@
+{
+  "greetings": [
+    "👋 Oh no… I’ve been summoned again.",
+    "🎉 Someone added me. This chat has officially changed difficulty.",
+    "🤖 Hello humans. I am here. No refunds.",
+    "😎 I joined. Productivity left the server.",
+    "⚡ I wasn’t invited… but I came anyway.",
+    "🧃 I run on bugs and bad decisions. Hi.",
+    "📡 Connection established. Chaos incoming.",
+    "🛠️ System notice: sanity levels may decrease.",
+    "🚪 I entered the chat like I own the place (I don’t).",
+    "💀 Someone pressed add. Now we suffer together."
+  ],
+
+  "quotes": [
+    "Debugging: when you fix one bug and unlock three more.",
+    "Code works… until you show someone.",
+    "Console.log is my therapy.",
+    "Errors: nature’s way of saying ‘try again idiot’ (politely).",
+    "Restarting fixes everything. Even emotions.",
+    "I don’t make mistakes. I create unexpected features.",
+    "Programming is just controlled chaos with deadlines.",
+    "If it works, don’t touch it. Ever.",
+    "Stack traces are just sad poems written by machines.",
+    "Real developers don’t panic… they Google faster."
+  ],
+
+  "gifs": [
+    "https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyeHR0aWl5aXFvNndqY2hwOW4zdGJkaTlyaDB0dzFlN3dybWdqenNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3PxSmPCeQsVGUl2Q35/giphy.gif",
+    "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyMXc4OXF0M2lscnR5NDJvdXRyazhyZjQ1Z3c3NWwxeDN4NXFkaGF2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif",
+    "https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYmlvYjY2MHIxZzNhYWlxenVqbjBtcHVkbjBpYXV1NHJsMGI2eGlncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RjmPE6m7SLrDuo0Id9/giphy.gif",
+    "https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGt5Nnh3cHlpNXNqeTRreGd5dDFpbWVudDRtaTBiOXI0ZGtwOHJzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zWjCNniPlKkmIwLq2E/giphy.gif",
+    "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyaDRxbmVvcW11NDYxbWt5NzA0bm14dTAxZHF5cHIxZTA3dmE3d2tsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WW5p7jd8ImZ16q4w2r/giphy.gif"
+  ]
+}

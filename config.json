@@ -1,0 +1,28 @@
+{
+  "prefix": "/",
+  "malClientId": "aee574d0b404f145b959f2a316d72f6a",
+
+  "bot": {
+    "name": "Phi",
+    "nicknameTemplate": "{name} | {prefix}"
+  },
+
+  "author": "Yoshi",
+
+  "owner": "100019895179494",
+  "admins": ["100091885846613"],
+
+  "time": {
+    "timezone": "Asia/Manila",
+    "format": "12h",
+    "showInLogs": true
+  },
+
+  "cooldowns": {
+    "default": 10000,
+    "help": 10000,
+    "uid": 10000,
+    "kick": 6000,
+    "broadcast": 10000
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "2056029805320536": {
+    "enabled": true,
+    "interval": "8hrs",
+    "lastVerse": "1 Samuel 19:10",
+    "lastSent": 1777537080014
+  },
+  "9512268618784393": {
+    "enabled": false,
+    "interval": "8hrs",
+    "lastVerse": "Psalms 119:114",
+    "lastSent": 0
+  },
+  "7122311224539067": {
+    "enabled": true,
+    "interval": "daily",
+    "lastVerse": null,
+    "lastSent": 0
+  }
+}

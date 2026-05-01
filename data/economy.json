@@ -1,0 +1,73 @@
+{
+  "100019895179494": {
+    "money": 103267.88245513708,
+    "bank": 0,
+    "streak": 1,
+    "lastDaily": 1777544550394,
+    "inventory": {
+      "BTC": 0,
+      "AAPL": 1
+    }
+  },
+  "100049951895057": {
+    "money": 800,
+    "bank": 0
+  },
+  "[object Object]": {
+    "money": 1000,
+    "bank": 0,
+    "xp": 100,
+    "level": 1,
+    "lastWork": 0,
+    "lastDaily": 0,
+    "streak": 0,
+    "inventory": {},
+    "jailedUntil": 0
+  },
+  "61580980000375": {
+    "money": 104.67918838188052,
+    "bank": 549000,
+    "xp": 0,
+    "level": 1,
+    "lastWork": 0,
+    "lastDaily": 1777602307065,
+    "streak": 1,
+    "inventory": {
+      "BTC": 1
+    },
+    "jailedUntil": 0
+  },
+  "@John": {
+    "money": 1000,
+    "bank": 0,
+    "xp": 0,
+    "level": 1,
+    "lastWork": 0,
+    "lastDaily": 0,
+    "streak": 0,
+    "inventory": {},
+    "jailedUntil": 0
+  },
+  "@Vincent": {
+    "money": 1000,
+    "bank": 0,
+    "xp": 0,
+    "level": 1,
+    "lastWork": 0,
+    "lastDaily": 0,
+    "streak": 0,
+    "inventory": {},
+    "jailedUntil": 0
+  },
+  "@Yosh": {
+    "money": 800,
+    "bank": 0,
+    "xp": 0,
+    "level": 1,
+    "lastWork": 0,
+    "lastDaily": 0,
+    "streak": 0,
+    "inventory": {},
+    "jailedUntil": 0
+  }
+}
